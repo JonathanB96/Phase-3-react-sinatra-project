@@ -1,0 +1,6 @@
+[submodule "phase-3-client"]
+	path = phase-3-client
+	url = ./phase-3-client
+[submodule "phase-3-sinatra-react-project"]
+	path = phase-3-sinatra-react-project
+	url = ./phase-3-sinatra-react-project
